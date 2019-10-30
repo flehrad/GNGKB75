@@ -2,7 +2,15 @@
 This keyboard layout was created by goodnewsgeorge, inspired by the Eve Meteor keyboard
 PCB work by flehrad
 
+GNGKB75_Rev0.zip is the Gerber package for production (not yet confirmed to be 100% working!)
+
+All of the KiCAD project is in this repository including original screen images.
+
+KiCAD v5.02-1 build was used to create this project.
+
+
 Bill of materials required:
+
 1x Elite-C microcontroller
 
 1x Angled reset switch (MJT01117)
