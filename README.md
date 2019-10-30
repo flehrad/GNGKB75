@@ -3,6 +3,13 @@ This keyboard layout was created by goodnewsgeorge, inspired by the Eve Meteor k
 
 PCB work by flehrad
 
+If you are producing this PCB package, it would be appreciated for attribution/crediting.
+
+If you like this project, please consider support to The Board Podcast :)
+
+
+
+
 GNGKB75_Rev0.zip is the Gerber package for production (not yet confirmed to be 100% working!)
 
 All of the KiCAD project is in this repository including original screen images.
